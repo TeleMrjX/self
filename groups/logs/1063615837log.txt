@@ -1,0 +1,46 @@
+[ Fri Apr 29 19:49:13 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Fri Apr 29 19:49:17 2016 ]=>  MohammadReza [87946267] attempted to create a new SuperGroup link
+ 
+[ Fri Apr 29 19:49:20 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CeNKnD9lfV1gnbOVoRMc9w]
+ 
+[ Fri Apr 29 19:50:06 2016 ]=>  MohammadReza [87946267] unlocked tgservice actions
+ 
+[ Fri Apr 29 19:50:37 2016 ]=>  MohammadReza [87946267] attempted to create a new SuperGroup link
+ 
+[ Fri Apr 29 19:50:52 2016 ]=>  MohammadReza [87946267] set: [142266345] as owner by reply
+ 
+[ Fri Apr 29 19:51:13 2016 ]=>   DiMoN-TELE SPEED™ [142266345] requested SuperGroup ID
+ 
+[ Fri Apr 29 19:51:18 2016 ]=>   DiMoN-TELE SPEED™ [142266345] requested SuperGroup ID
+ 
+[ Fri Apr 29 19:51:21 2016 ]=>  _DiMoN-TELE_SPEED™ [142266345] Used /superhelp
+ 
+[ Fri Apr 29 19:55:33 2016 ]=>  MohammadReza [87946267] requested SuperGroup users list
+ 
+[ Fri Apr 29 20:40:52 2016 ]=>  MohammadReza [87946267] kicked: @MR_ARAM_KURD
+ 
+[ Fri Apr 29 20:40:52 2016 ]=>  MohammadReza [87946267] kicked: @MR_ARAM_KURD [188305557]
+ 
+[ Sat Apr 30 16:43:35 2016 ]=>  MohammadReza [87946267] kicked: @no_install
+ 
+[ Sat Apr 30 16:43:35 2016 ]=>  MohammadReza [87946267] kicked: @no_install [142266345]
+ 
+[ Sat Apr 30 16:44:15 2016 ]=>  MohammadReza [87946267] attempted to create a new SuperGroup link
+ 
+[ Sat Apr 30 16:44:18 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CeNKnD9lfV3yiNCTuMTc2Q]
+ 
+[ Sat Apr 30 16:45:25 2016 ]=>  MohammadReza [87946267] unlocked tgservice actions
+ 
+[ Sat Apr 30 16:45:40 2016 ]=>  ‡Ħ∃⒠εə 🐊↡↷.. ℳⓞђαლăの ..↶↡  Å⒩⒢ɘ⒧ [127651068] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 16:46:42 2016 ]=>  MohammadReza [87946267] attempted to create a new SuperGroup link
+ 
+[ Sat Apr 30 16:46:50 2016 ]=>  MohammadReza [87946267] set: [127651068] as owner by reply
+ 
+[ Sat Apr 30 16:48:10 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CeNKnD9lfV3M9Bf6WL7m0w]
+ 
+[ Mon May  2 17:42:15 2016 ]=>  ‡Ħ∃⒠εə 🐊↡↷.. ℳⓞђαლăの ..↶↡  Å⒩⒢ɘ⒧ [127651068] requested SuperGroup ID
+ 
+[ Mon May  2 17:42:23 2016 ]=>  ‡Ħ∃⒠εə 🐊↡↷.. ℳⓞђαლăの ..↶↡  Å⒩⒢ɘ⒧ [127651068] requested group link [https://telegram.me/joinchat/CeNKnD9lfV3M9Bf6WL7m0w]
+ 

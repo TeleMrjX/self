@@ -1,0 +1,30 @@
+[ Sun May  1 14:35:32 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] added SuperGroup
+ 
+[ Sun May  1 14:35:38 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 14:35:42 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested group link [https://telegram.me/joinchat/CeNKnD-YH3bRctO7_4yceQ]
+ 
+[ Sun May  1 14:39:43 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] set: [124338475] as owner by reply
+ 
+[ Sun May  1 14:40:53 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] requested group link [https://telegram.me/joinchat/CeNKnD-YH3bRctO7_4yceQ]
+ 
+[ Mon May  2 02:47:54 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] requested SuperGroup ID
+ 
+[ Mon May  2 02:47:58 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] attempted to create a new SuperGroup link
+ 
+[ Mon May  2 10:14:41 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] requested SuperGroup ID
+ 
+[ Thu May  5 12:46:42 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] requested group link [https://telegram.me/joinchat/CeNKnD-YH3Z_qr0SfLaIRA]
+ 
+[ Thu May  5 12:47:09 2016 ]=>  💤_ƐའƑȺՌ_👣 [124338475] Used /superhelp
+ 
+[ Thu May  5 12:47:42 2016 ]=>  💞мιѕѕ αяιηα💕 Admin [208774112] joined the SuperGroup via link
+ 
+[ Thu May  5 12:48:01 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] promoted mod: @@ErFaN_K_q_Z[124338475] by reply
+ 
+[ Thu May  5 12:48:39 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] promoted mod: @@ErFaN_K_q_Z[124338475] by reply
+ 
+[ Thu May  5 12:48:55 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested group modlist
+ 
+[ Fri May  6 04:12:52 2016 ]=>  💤 ƐའƑȺՌ 👣 [124338475] requested group link [https://telegram.me/joinchat/CeNKnD-YH3Z_qr0SfLaIRA]
+ 

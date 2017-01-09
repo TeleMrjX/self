@@ -1,0 +1,76 @@
+[ Wed Apr 27 19:28:44 2016 ]=>                        [183760465] added SuperGroup
+ 
+[ Wed Apr 27 19:29:08 2016 ]=>                        [183760465] locked link posting 
+ 
+[ Wed Apr 27 19:29:23 2016 ]=>                        [183760465] locked forward posting
+ 
+[ Wed Apr 27 19:30:28 2016 ]=>  _____________________ [183760465] Used /superhelp
+ 
+[ Wed Apr 27 19:30:57 2016 ]=>                        [183760465] set SuperGroup to: mute Photo
+ 
+[ Wed Apr 27 19:31:13 2016 ]=>                        [183760465] set SuperGroup to: mute Audio
+ 
+[ Wed Apr 27 19:31:28 2016 ]=>                        [183760465] set SuperGroup to: mute Video
+ 
+[ Wed Apr 27 19:31:50 2016 ]=>                        [183760465] set flood to [10]
+ 
+[ Wed Apr 27 19:32:29 2016 ]=>                       [183760465] set [109013876] as owner by username
+ 
+[ Sun May  1 10:55:54 2016 ]=>                        [183760465] requested SuperGroup ID
+ 
+[ Sun May  1 11:45:26 2016 ]=>  MohammadReza [87946267] deleted a message by reply
+ 
+[ Wed May  4 10:38:07 2016 ]=>                        [183760465] requested SuperGroup ID
+ 
+[ Wed May  4 10:40:49 2016 ]=>  MohammadReza [87946267] deleted a message by reply
+ 
+[ Thu May  5 11:53:36 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Thu May  5 11:54:55 2016 ]=>  MohammadReza [87946267] set: [183760465] as owner by reply
+ 
+[ Thu May  5 11:55:08 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 11:55:18 2016 ]=>  _____________________ [183760465] Used /superhelp
+ 
+[ Thu May  5 11:55:50 2016 ]=>  MohammadReza [87946267] promoted mod: @@Khiyanat123[183760465] by reply
+ 
+[ Thu May  5 11:56:09 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 11:57:28 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute عکس
+ 
+[ Thu May  5 11:57:37 2016 ]=>  MohammadReza [87946267] set SuperGroup to: unmute عکس
+ 
+[ Thu May  5 12:03:20 2016 ]=>  MohammadReza [87946267] requested SuperGroup mutelist
+ 
+[ Thu May  5 12:03:34 2016 ]=>  MohammadReza [87946267] requested SuperGroup mutelist
+ 
+[ Thu May  5 12:04:44 2016 ]=>  MohammadReza [87946267] requested SuperGroup mutelist
+ 
+[ Thu May  5 12:41:31 2016 ]=>  MohammadReza [87946267] locked forward posting
+ 
+[ Thu May  5 12:42:28 2016 ]=>  MohammadReza [87946267] unlocked forward posting
+ 
+[ Thu May  5 12:42:38 2016 ]=>  MohammadReza [87946267] locked forward posting
+ 
+[ Thu May  5 12:42:49 2016 ]=>  MohammadReza [87946267] unlocked forward posting
+ 
+[ Thu May  5 12:42:54 2016 ]=>  MohammadReza [87946267] unlocked forward posting
+ 
+[ Thu May  5 12:43:04 2016 ]=>  MohammadReza [87946267] requested SuperGroup settings 
+ 
+[ Thu May  5 12:43:42 2016 ]=>  MohammadReza [87946267] locked fosh posting
+ 
+[ Thu May  5 12:43:47 2016 ]=>  MohammadReza [87946267] locked fosh posting
+ 
+[ Thu May  5 12:43:53 2016 ]=>  MohammadReza [87946267] unlocked fosh posting
+ 
+[ Thu May  5 12:43:58 2016 ]=>  MohammadReza [87946267] unlocked fosh posting
+ 
+[ Thu May  5 12:45:28 2016 ]=>  MohammadReza [87946267] locked Tgservice Actions
+ 
+[ Thu May  5 12:45:35 2016 ]=>  MohammadReza [87946267] deleted a message by reply
+ 
+[ Thu May  5 12:46:02 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Thu May  5 12:53:17 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 

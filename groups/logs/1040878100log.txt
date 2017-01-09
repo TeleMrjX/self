@@ -1,0 +1,342 @@
+[ Wed Apr 27 18:31:41 2016 ]=>  DeletedAccount @tir_80 [109829223] kicked for #spam
+ 
+[ Fri Apr 29 17:41:57 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Fri Apr 29 17:45:53 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Fri Apr 29 17:48:11 2016 ]=>  MohammadReza [87946267] promoted @Agha_reza99
+ 
+[ Fri Apr 29 17:50:07 2016 ]=>  MohammadReza [87946267] deleted a message by reply
+ 
+[ Fri Apr 29 18:18:41 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested group modlist
+ 
+[ Fri Apr 29 18:27:54 2016 ]=>  MohammadReza [87946267] set: [139779335] as owner by reply
+ 
+[ Fri Apr 29 18:28:10 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @Moh_Ra
+ 
+[ Fri Apr 29 18:28:23 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @Agha_reza99
+ 
+[ Fri Apr 29 18:28:35 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @bahone1991
+ 
+[ Fri Apr 29 18:28:47 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Fri Apr 29 18:31:50 2016 ]=>  MohammadReza [87946267] deleted a message by reply
+ 
+[ Fri Apr 29 18:57:51 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Fri Apr 29 18:58:18 2016 ]=>  یادگاری احسان فاکس [146661928] requested SuperGroup ID
+ 
+[ Fri Apr 29 18:58:54 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Fri Apr 29 18:59:31 2016 ]=>  MohammadReza [87946267] promoted mod: @@cactus_Team[139779335] by reply
+ 
+[ Fri Apr 29 18:59:52 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @MegaTesla
+ 
+[ Fri Apr 29 19:00:20 2016 ]=>  MohammadReza [87946267] requested SuperGroup mutelist
+ 
+[ Fri Apr 29 19:04:17 2016 ]=>  یادگاری احسان فاکس [146661928] requested SuperGroup ID
+ 
+[ Fri Apr 29 19:04:48 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] used /owner
+ 
+[ Fri Apr 29 19:10:20 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] locked link posting 
+ 
+[ Fri Apr 29 23:05:51 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested group modlist
+ 
+[ Sat Apr 30 08:44:47 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sat Apr 30 10:56:06 2016 ]=>  MohammadReza Admin [87946267] joined the SuperGroup via link
+ 
+[ Sat Apr 30 12:11:10 2016 ]=>  Agha reza [208955102] requested SuperGroup ID
+ 
+[ Sat Apr 30 12:11:56 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Sat Apr 30 12:13:27 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested group modlist
+ 
+[ Sat Apr 30 12:29:23 2016 ]=>  MohammadReza Admin [87946267] joined the SuperGroup via link
+ 
+[ Sat Apr 30 12:33:28 2016 ]=>  Agha reza Admin [87946267] added to the SuperGroup by [ 208955102 ]
+ 
+[ Sat Apr 30 12:33:48 2016 ]=>  ☇мεgα τεslα☇ Admin [87946267] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Apr 30 12:33:48 2016 ]=>  ☇мεgα τεslα☇ Admin [87946267] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Apr 30 12:33:50 2016 ]=>  Agha reza Admin [87946267] added to the SuperGroup by [ 208955102 ]
+ 
+[ Sat Apr 30 12:37:15 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Sat Apr 30 14:08:23 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @Agha_reza99
+ 
+[ Sat Apr 30 14:21:10 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sat Apr 30 14:21:10 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sat Apr 30 14:21:28 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] Used /superhelp
+ 
+[ Sat Apr 30 14:24:10 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @bahone1991
+ 
+[ Sat Apr 30 14:24:57 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested SuperGroup ID
+ 
+[ Sat Apr 30 14:25:31 2016 ]=>  Agha reza [208955102] requested SuperGroup ID
+ 
+[ Sat Apr 30 14:25:53 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested SuperGroup info
+ 
+[ Sat Apr 30 14:54:17 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup settings 
+ 
+[ Sat Apr 30 14:54:24 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sat Apr 30 15:08:16 2016 ]=>  یادگاری احسان فاکس [146661928] requested group modlist
+ 
+[ Sat Apr 30 15:10:24 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @bahone1991
+ 
+[ Sat Apr 30 15:10:33 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @Moh_Ra
+ 
+[ Sat Apr 30 15:10:39 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @Agha_reza99
+ 
+[ Sat Apr 30 15:10:46 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted @M_B_King
+ 
+[ Sat Apr 30 15:34:01 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Sat Apr 30 15:40:45 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CFTdBz4KihTNwwI_3jGkZA]
+ 
+[ Sat Apr 30 15:41:02 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Sat Apr 30 16:48:22 2016 ]=>  ⇝مسٺـــر ڪٻـ↯ـنگ⇜ [139297279] requested SuperGroup ID
+ 
+[ Sat Apr 30 17:00:28 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sat Apr 30 19:10:33 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Sat Apr 30 19:11:31 2016 ]=>  M̴̴o̴̴s̴̴t̴̴a̴̴f̴̴a̴ [205305442] requested SuperGroup ID
+ 
+[ Sat Apr 30 19:22:25 2016 ]=>  ▏▎▍▌▋▊▉ █سًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـًًًًٍٍٍٍ✖️Ghost✖️ــًًًٍٍٍاًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِِم █▉▊▋▌▍▎▏   Sam Admin Radical ▏▎▍▌▋▊▉ █سًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـًًًًٍٍٍٍ✖️Ghost✖️ــًًًٍٍٍاٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ ▏▎▍▌▋▊▉ █سًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـًًًًٍٍٍٍ✖️Ghost✖️ــًًًٍٍٍاًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِِم █▉▊▋▌▍▎▏   Sam Admin Radical ▏▎▍▌▋▊▉ █سًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـًًًًٍٍٍٍ✖️Ghost✖️ــًًًٍٍٍاٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ [184731568] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 10:54:27 2016 ]=>  MohammadReza [87946267] locked sticker posting
+ 
+[ Sun May  1 11:28:11 2016 ]=>  Negative [68747297] requested SuperGroup ID
+ 
+[ Sun May  1 11:29:18 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute All
+ 
+[ Sun May  1 11:30:15 2016 ]=>  ‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌ [131181037] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 11:32:20 2016 ]=>  MohammadReza [87946267] set SuperGroup to: unmute All
+ 
+[ Sun May  1 11:51:10 2016 ]=>  Agha reza [208955102] obtained id for: [201774802]
+ 
+[ Sun May  1 11:51:25 2016 ]=>  Aghareza [208955102] baned user 201774802
+ 
+[ Sun May  1 12:50:34 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] requested SuperGroup ID
+ 
+[ Sun May  1 12:50:52 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] locked link posting 
+ 
+[ Sun May  1 13:10:16 2016 ]=>  MohammadReza [87946267] obtained id for: [208955102]
+ 
+[ Sun May  1 13:23:11 2016 ]=>  D.A @Digiazarr [114371638] kicked for #spam
+ 
+[ Sun May  1 13:55:09 2016 ]=>  ℜⓐღⓘⓝ💲🔫. [113897434] kicked for #spam
+ 
+[ Sun May  1 14:39:32 2016 ]=>  خَرابـ بشہ شـَهرے. کہ نَشہ تـورو تـوش دیــد [151006886] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:43:43 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested group modlist
+ 
+[ Sun May  1 14:45:41 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] obtained id for: [187549393]
+ 
+[ Sun May  1 14:47:55 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 19:27:57 2016 ]=>  Negative [68747297] requested SuperGroup ID
+ 
+[ Sun May  1 19:30:03 2016 ]=>  Moh Ra [137705899] obtained id for: [118482462]
+ 
+[ Sun May  1 19:30:12 2016 ]=>  MohRa [137705899] baned user 118482462
+ 
+[ Sun May  1 19:41:32 2016 ]=>  MohammadReza [87946267] requested SuperGroup settings 
+ 
+[ Sun May  1 19:43:26 2016 ]=>  MohammadReza [87946267] promoted mod: @@M_B_King[87946267] by reply
+ 
+[ Sun May  1 19:49:22 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] promoted user#id163390905
+ 
+[ Sun May  1 19:50:06 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] used /owner
+ 
+[ Sun May  1 20:08:55 2016 ]=>  ∀ـــــــــــــــــــ¥ـــــــــــــــــــــــــøــــــــــــــــــــℜ [188975145] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 20:35:14 2016 ]=>  ّّّّّ ّّّّّّّّّّّّّّّّّّّ سََََََََََِِِِِِِِِِِــًَََُُُُِِـًٍٍٍٍٍٍٍٍُُُـــًٍٍٍٍٍََََُُُُِحًٍََََََََُِِِِِِِِِِِِِِِِـًًَُُِــٌٍَُُُُِـــََََُُِِـらคみค尺َََـََََََـًًًٍٍٍٍٍٍَََِِِِـَِِِِـــًَـًًٍٍٍٍٍََــــــََََََََََُُِِِِــر [87773616] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 20:45:50 2016 ]=>  ∽؛ٰ•ٰ●ٰ◆ٰ╮ٰ─ٰ═ٰٰहِِِٰईِِِِِِٰ✞ٰمٍٍٍٍٍٍٍٰٰٰٰٰحٍٍٍٍٍٍٍٍٰٰٰٰـٰٰٰٰٰٰ؁ٍٍٍٍٍٍِٰٰٰٰـمٍٍٍٍٍٍٍٍّّّّّـِِِِِِِِٰٰٰٰڐِِِِِِِِِٰٰٰٰ✞ًِِِِِِِِِِِٰٰईٰहٰٰٰ═ٰٰ─ٰ╰ٰٰ◆ٰ●ٰ•ٰ;∽ ✘]🇲.🇴.🇭.🇦.🇲.🇲.🇦.🇩[✘🔚🇦🔙. [47700767] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 10:12:48 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute Gifs
+ 
+[ Mon May  2 10:13:46 2016 ]=>  MohammadReza [87946267] promoted mod: @@Mona_sep[187549393] by reply
+ 
+[ Mon May  2 10:18:10 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Mon May  2 10:18:53 2016 ]=>  MohammadReza [87946267] locked link posting 
+ 
+[ Mon May  2 10:22:46 2016 ]=>  MohammadReza [87946267] obtained id for: [187549393]
+ 
+[ Mon May  2 10:22:57 2016 ]=>  MohammadReza [87946267] promoted user#id187549393
+ 
+[ Mon May  2 11:00:52 2016 ]=>  .::: < SEPEHR > :::. [144658773] requested SuperGroup ID
+ 
+[ Mon May  2 11:11:41 2016 ]=>  MohammadReza [87946267] obtained id for: [110963374]
+ 
+[ Mon May  2 11:11:51 2016 ]=>  MohammadReza [87946267] obtained id for: [187549393]
+ 
+[ Mon May  2 13:14:46 2016 ]=>  NiMa @Nimaaaaa [187273453] kicked for #spam
+ 
+[ Mon May  2 13:56:58 2016 ]=>  ڄـًَِٖؓؔ‌‌ـًَِٖؓؔ‌‌ــًَِٖؓؔ‌‌ۉٱڋم مِشِتِـًَِٖؓؔ‌‌ــًَِٖؓؔ‌‌ــًَِٖؓؔ‌‌ـِٰٓے [143698940] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 16:04:58 2016 ]=>  ّّّّّ ّّّّّّّّّّّّّّّّّّّ سََََََََََِِِِِِِِِِِــًَََُُُُِِـًٍٍٍٍٍٍٍٍُُُـــًٍٍٍٍٍََََُُُُِحًٍََََََََُِِِِِِِِِِِِِِِِـًًَُُِــٌٍَُُُُِـــََََُُِِـらคみค尺َََـََََََـًًًٍٍٍٍٍٍَََِِِِـَِِِِـــًَـًًٍٍٍٍٍََــــــََََََََََُُِِِِــر [87773616] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 16:31:55 2016 ]=>  زهره [205886545] kicked for #spam
+ 
+[ Mon May  2 17:02:38 2016 ]=>  Agha reza [208955102] requested SuperGroup ID
+ 
+[ Mon May  2 17:18:34 2016 ]=>   /\/\|®®£z ☔ [110963374] requested SuperGroup ID
+ 
+[ Mon May  2 17:30:39 2016 ]=>  Agha reza [208955102] unlocked sticker posting
+ 
+[ Mon May  2 17:32:01 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Tue May  3 10:03:19 2016 ]=>  MohammadReza [87946267] locked link posting 
+ 
+[ Tue May  3 10:30:09 2016 ]=>  MohammadReza [87946267] obtained id for: [193341018]
+ 
+[ Tue May  3 10:30:26 2016 ]=>  MohammadReza [87946267] baned user 193341018
+ 
+[ Tue May  3 10:34:13 2016 ]=>  Ἑρμῆς [193341018] is banned and kicked ! 
+ 
+[ Tue May  3 13:39:24 2016 ]=>  \*بزنخودم*/ [185084545] kicked for #spam
+ 
+[ Tue May  3 17:03:57 2016 ]=>  ۝اًٍمًٍـًٍـًٍیًٍـًٍـًٍـًٍنمًٍـًٍ یًٍـًٍـًٍـًٍٍ شًٍـًٍـًٍاًٍهًٍـًٍ ًٍ ڒًٍؤًٍاًٍلًٍھً ۝ [166073862] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 17:48:37 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Wed May  4 10:05:51 2016 ]=>  E |-| S /|\ |\| F O X [146661928] requested SuperGroup ID
+ 
+[ Wed May  4 10:08:54 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Wed May  4 10:09:07 2016 ]=>  E |-| S /|\ |\| F O X [146661928] requested SuperGroup ID
+ 
+[ Wed May  4 10:09:17 2016 ]=>  E |-| S /|\ |\| F O X [146661928] requested group modlist
+ 
+[ Wed May  4 12:32:48 2016 ]=>  MohammadReza [87946267] requested SuperGroup mutelist
+ 
+[ Wed May  4 12:58:18 2016 ]=>  Elenaa [198775780] requested group rules
+ 
+[ Wed May  4 14:14:00 2016 ]=>  MohammadReza [87946267] locked link posting 
+ 
+[ Wed May  4 14:16:52 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Wed May  4 14:22:24 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Wed May  4 15:41:01 2016 ]=>  MohammadReza [87946267] promoted mod: @@Moh_Ra[137705899] by reply
+ 
+[ Wed May  4 15:41:47 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute صدا
+ 
+[ Wed May  4 15:41:55 2016 ]=>  MohammadReza [87946267] set SuperGroup to: unmute صدا
+ 
+[ Wed May  4 15:42:45 2016 ]=>  MohammadReza [87946267] demoted mod: @@Moh_Ra[165890716] by reply
+ 
+[ Wed May  4 15:43:12 2016 ]=>  MohammadReza [87946267] promoted mod: @@Moh_Ra[137705899] by reply
+ 
+[ Wed May  4 15:44:17 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CFTdBz4KihTNwwI_3jGkZA]
+ 
+[ Wed May  4 15:54:25 2016 ]=>  MohammadReza [87946267] requested SuperGroup bots list
+ 
+[ Wed May  4 15:54:34 2016 ]=>  MohammadReza [87946267] requested SuperGroup Admins list
+ 
+[ Wed May  4 15:59:50 2016 ]=>  MohammadReza [87946267] requested group rules
+ 
+[ Wed May  4 16:00:24 2016 ]=>  MohammadReza [87946267] has changed group rules to [2]
+ 
+[ Wed May  4 16:00:28 2016 ]=>  MohammadReza [87946267] requested group rules
+ 
+[ Wed May  4 16:06:15 2016 ]=>  MohammadReza [87946267] promoted mod: @@Amirreza_Alm[110963374] by reply
+ 
+[ Wed May  4 16:09:05 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Wed May  4 16:15:23 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Wed May  4 16:16:45 2016 ]=>  MohammadReza [87946267] requested SuperGroup Admins list
+ 
+[ Wed May  4 16:43:11 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Thu May  5 05:32:20 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 05:41:14 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 05:46:36 2016 ]=>  MohammadReza [87946267] used /owner
+ 
+[ Thu May  5 05:47:41 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute گیف
+ 
+[ Thu May  5 05:49:21 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested SuperGroup ID
+ 
+[ Thu May  5 07:01:45 2016 ]=>  MohammadReza [87946267] set flood to [5]
+ 
+[ Thu May  5 08:30:23 2016 ]=>  👑bɒнoиɘγɘн zɘиbɘϱi👑 [156316989] requested group modlist
+ 
+[ Thu May  5 10:27:26 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 10:28:54 2016 ]=>  MohammadReza [87946267] has changed group rules to [.
+🍫قـۅانـٻـن🍭گـــــرۅه🍬
+
+1⃣فـقـط ݘـــــٺ🌵|•
+2⃣ٺبݪٻغاٺ ممنـۅ؏🍁|•
+3⃣دعـــــۅا مــمـنۅ؏🌹|•
+4⃣ادبـــ ۅ اِحـــــٺــرام🌷|•
+5⃣ݒۍ وۍ دخٺر ممنۅ؏🍀|•
+6⃣شـارژ حِـرمـے مــمـنۅ؏🌺|•
+7⃣ݒـسٺ رگـبـارۍ مـمـنـۅ؏🍂|•
+8⃣اَگـہ فــعـاݪ هسـٺـے بـمـۅن🌼|•
+9⃣بــے جـنـبـہ بــازۍ مــمــنـۅ؏🌸|•
+🔟اســݐـم دادن💯در💯مــمـنــۅ؏🌻|•
+
+🌲اَگر قۅانٻن باݪا رۅ رعاٻٺ نڪنٻد≈{بِن}]
+ 
+[ Thu May  5 10:29:00 2016 ]=>  MohammadReza [87946267] requested group rules
+ 
+[ Thu May  5 10:37:46 2016 ]=>  Moh Ra 🍒 [137705899] requested group modlist
+ 
+[ Thu May  5 12:44:16 2016 ]=>  MohammadReza [87946267] locked sticker posting
+ 
+[ Thu May  5 12:44:24 2016 ]=>  MohammadReza [87946267] unlocked sticker posting
+ 
+[ Thu May  5 14:14:27 2016 ]=>  MohammadReza [87946267] unlocked sticker posting
+ 
+[ Thu May  5 14:17:30 2016 ]=>  MohammadReza [87946267] promoted mod: @@minoosa_s[167290826] by reply
+ 
+[ Thu May  5 14:17:37 2016 ]=>  MohammadReza [87946267] promoted mod: @@Agha_reza99[208955102] by reply
+ 
+[ Thu May  5 14:19:12 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 14:21:08 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
+[ Thu May  5 14:21:27 2016 ]=>  MohammadReza [87946267] promoted mod: @🇮🇷·.اقای 691.·🇮🇷 [209720566] by reply
+ 
+[ Thu May  5 14:21:48 2016 ]=>  </🅰₮ℹŁ🅰> [139779335] Used /superhelp
+ 
+[ Thu May  5 14:21:58 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Thu May  5 14:39:30 2016 ]=>  👑bɒнoиɘγɘнzɘиbɘϱi👑 [156316989] baned user 167290826
+ 
+[ Thu May  5 14:40:05 2016 ]=>  minoo [167290826] is banned and kicked ! 
+ 
+[ Thu May  5 14:41:15 2016 ]=>  Mohammad🍭 [137705899] unbaned user 167290826
+ 
+[ Thu May  5 14:41:18 2016 ]=>  MohammadReza [87946267] requested SuperGroup info
+ 
+[ Thu May  5 14:41:18 2016 ]=>  MohammadReza [87946267] resolved username: @minoosa_s
+ 
+[ Thu May  5 14:47:36 2016 ]=>  MohammadReza [87946267] requested SuperGroup info
+ 
+[ Thu May  5 14:47:36 2016 ]=>  MohammadReza [87946267] resolved username: @minoosa_s
+ 
+[ Thu May  5 14:47:49 2016 ]=>  MohammadReza [87946267] unbaned user 167290826
+ 
+[ Thu May  5 14:58:22 2016 ]=>  MohammadReza [87946267] demoted @minoosa_s
+ 
+[ Thu May  5 17:45:43 2016 ]=>  MohammadReza [87946267] obtained id for: [139779335]
+ 
+[ Thu May  5 17:58:58 2016 ]=>  Agha reza [208955102] requested group modlist
+ 
+[ Thu May  5 19:23:29 2016 ]=>  ԳՎՑ°░Яєραмιllιlııl @M_948 [107155923] kicked for #spam
+ 

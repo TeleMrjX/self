@@ -1,0 +1,786 @@
+[ Wed Apr 27 17:35:42 2016 ]=>  δΣⅢⓓ [213948245] kicked for #spam
+ 
+[ Thu Apr 28 10:03:22 2016 ]=>                        [183760465] added SuperGroup
+ 
+[ Thu Apr 28 10:03:44 2016 ]=>                        [183760465] locked link posting 
+ 
+[ Thu Apr 28 10:04:19 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 10:15:26 2016 ]=>                        [183760465] set: [144422006] as owner by reply
+ 
+[ Thu Apr 28 10:15:42 2016 ]=>                        [183760465] locked link posting 
+ 
+[ Thu Apr 28 10:15:42 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 10:15:53 2016 ]=>  ☫ [144422006] locked spam 
+ 
+[ Thu Apr 28 10:16:07 2016 ]=>  ☫ [144422006] set SuperGroup to: mute Photo
+ 
+[ Thu Apr 28 10:19:23 2016 ]=>                        [183760465] locked Tgservice Actions
+ 
+[ Thu Apr 28 10:19:33 2016 ]=>  ☫ [144422006] Used /superhelp
+ 
+[ Thu Apr 28 10:25:10 2016 ]=>                        [183760465] locked rtl chars. in names
+ 
+[ Thu Apr 28 10:39:40 2016 ]=>  ☫ [144422006] set SuperGroup to: mute Video
+ 
+[ Thu Apr 28 10:52:44 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:05:20 2016 ]=>                        [183760465] unlocked tgservice actions
+ 
+[ Thu Apr 28 11:05:28 2016 ]=>                        [183760465] unlocked RTL chars. in names
+ 
+[ Thu Apr 28 11:07:29 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:08:55 2016 ]=>                        [183760465] locked Tgservice Actions
+ 
+[ Thu Apr 28 11:09:05 2016 ]=>                        [183760465] locked rtl chars. in names
+ 
+[ Thu Apr 28 11:40:29 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:40:49 2016 ]=>  ☫ [144422006] locked link posting 
+ 
+[ Thu Apr 28 11:40:55 2016 ]=>                        [183760465] used /owner
+ 
+[ Thu Apr 28 11:41:09 2016 ]=>                        [183760465] obtained id for: [144422006]
+ 
+[ Thu Apr 28 11:41:10 2016 ]=>  ☫ [144422006] locked spam 
+ 
+[ Thu Apr 28 11:41:16 2016 ]=>  ☫ [144422006] locked Tgservice Actions
+ 
+[ Thu Apr 28 11:46:43 2016 ]=>  👑..√ ℳ๏̯͡๏みάмრσძ √..👑ریپورتم 10تااستیکرلطفا [129514212] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 11:46:56 2016 ]=>  ✘✔Ҭคҭคใเҭұ✔✘∵ →Ŋobąţęmąŋę™∅(ریپورتم) [103134454] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 11:47:38 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:47:38 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:47:39 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:47:46 2016 ]=>  naser @nn85321 [133207401] kicked for #spam
+ 
+[ Thu Apr 28 11:47:53 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:47:59 2016 ]=>  ♚مـحـℳㅁんseπـسن♚ @mohsen1373126 [195264709] kicked for #spam
+ 
+[ Thu Apr 28 11:48:02 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:48:03 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:48:10 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:48:22 2016 ]=>  reza [83521184] kicked for #spam
+ 
+[ Thu Apr 28 11:48:55 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:48:56 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:49:00 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:49:58 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:49:58 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:49:59 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:50:06 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:50:11 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:50:11 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:51:19 2016 ]=>  نیَـمــــا ریپورتــــــــــــــــــــــــــ😏 [112598527] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 11:51:52 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:51:59 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:52:05 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:52:08 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] used /owner
+ 
+[ Thu Apr 28 11:52:38 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:52:43 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:52:51 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:52:53 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute All
+ 
+[ Thu Apr 28 11:52:56 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] requested group modlist
+ 
+[ Thu Apr 28 11:52:57 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] requested group modlist
+ 
+[ Thu Apr 28 11:52:58 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] requested group modlist
+ 
+[ Thu Apr 28 11:52:59 2016 ]=>  off  zed  spam😏 [195220023] requested group modlist
+ 
+[ Thu Apr 28 11:52:59 2016 ]=>  👈💘امــhosseinــیر💘👉 [109982872] requested group modlist
+ 
+[ Thu Apr 28 11:53:00 2016 ]=>  off  zed  spam😏 [195220023] requested group modlist
+ 
+[ Thu Apr 28 11:53:01 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:13 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:21 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:24 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:27 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:30 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:34 2016 ]=>  👙👙👙نرگسصیغهای👙👙👙 @NARGE_JON [200135513] kicked for #spam
+ 
+[ Thu Apr 28 11:53:34 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:53:52 2016 ]=>  👑""مًٍلًٍکًٍهًٍ√ًٍ√↑คภเรค ٍ↓فًٍاًٍکًٍرًٍ""🔱 [131009586] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 11:53:56 2016 ]=>  بسوزهعاشقی @mohbi4 [193251232] kicked for #spam
+ 
+[ Thu Apr 28 11:53:56 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:54:02 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:54:07 2016 ]=>  MohammadReza [87946267] set SuperGroup to: unmute All
+ 
+[ Thu Apr 28 11:54:30 2016 ]=>  off  zed  spam😏 [195220023] requested SuperGroup ID
+ 
+[ Thu Apr 28 11:55:01 2016 ]=>  Moh mm d 👉 B🎤                           ✌✌✌✌✌✌✌✌✌👋👋👋👋👋👋✌✌✌✌👋👋✌✌👋👋👋✌👉✌👉👋👋👏👏👏👋✌✌✌✊✊👌✊✌✌✌✊✌👉✋✋✋✌✌✊✌✌✌👋✋✌👉👉✋✌✌✌✌✌✌✌✌✌✌✋👉👉👉✌👉👉👉👉👉👉👉👉👋👋👋👋✋👊👊✋✋✌✊✊👋👏👏👐👐👐👏👋👋👉✋✋👏👏👏👏👋👋👉👋👏👏☝☝☝👆👐👐👐👐☝☝☝☝👋✌👈💝💝💝💘💘💞💟😔😔😖😌😭😭😪😗😗🙍😸😼😼😺😺👫👫👪💑💏👥👮👫👫👪💑💑👷👫👷👷👪👪👪👪👫👫👨🐑🐏🐏🐰🐰🐏🐑♓♓♓🚰🚰🚰🚯♒♒♑🚮♒♓♌🔚🔛🔛♊♊🔛🔏📧📧🔎🔄🔎🔎 [218448508] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 11:55:09 2016 ]=>  MohammadReza [87946267] set SuperGroup to: mute All
+ 
+[ Thu Apr 28 11:55:20 2016 ]=>  ..ÅℳЇℜ [211962893] kicked for #spam
+ 
+[ Thu Apr 28 11:56:34 2016 ]=>  MohammadReza [87946267] locked member 
+ 
+[ Thu Apr 28 11:56:44 2016 ]=>  ☫ [144422006] set SuperGroup to: unmute All
+ 
+[ Thu Apr 28 11:56:44 2016 ]=>  MohammadReza [87946267] locked fosh posting
+ 
+[ Thu Apr 28 11:56:55 2016 ]=>  ⬅💀ڪلہ خرآب➡💀 User [219075353] joined and kicked (#lockmember)
+ 
+[ Thu Apr 28 11:57:07 2016 ]=>  arash a User [134604280] joined and kicked (#lockmember)
+ 
+[ Thu Apr 28 11:57:48 2016 ]=>  73432 73432 User [116621221] joined and kicked (#lockmember)
+ 
+[ Thu Apr 28 11:57:53 2016 ]=>  Modir User [176154954] joined and kicked (#lockmember)
+ 
+[ Thu Apr 28 11:57:55 2016 ]=>  رویا ملکی User [129789163] joined and kicked (#lockmember)
+ 
+[ Thu Apr 28 11:58:29 2016 ]=>  ☫ [144422006] unlocked member 
+ 
+[ Thu Apr 28 12:02:23 2016 ]=>  هSamiستمرواله?¿ @Biling_hot [198048759] kicked for #spam
+ 
+[ Thu Apr 28 12:02:50 2016 ]=>  💎تبادل1k💎 [127524392] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:07:07 2016 ]=>  😉matin😉 [144177327] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:12:43 2016 ]=>  SinağH @sinagh2 [196560506] kicked for #spam
+ 
+[ Thu Apr 28 12:13:17 2016 ]=>  Alireza#1 [146538173] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:16:04 2016 ]=>  حؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔـٗٓٓصٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٗٗٗـٓٓٓٗ؁ِِِِِِِِِٓٓٓٓـؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔ۩ْْْ٘ωْْْْْ٘٘٘α٘ηْ٘τْ٘εг‌ْ٘۩ؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔـِِِِِِِِِِِِِِِِٗـ؁ـْْٓٓٓٓیٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ [189176332] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 12:16:16 2016 ]=>  حؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔـٗٓٓصٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٗٗٗـٓٓٓٗ؁ِِِِِِِِِٓٓٓٓـؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔ۩ْْْ٘ωْْْْْ٘٘٘α٘ηْ٘τْ٘εг‌ْ٘۩ؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔؔـِِِِِِِِِِِِِِِِٗـ؁ـْْٓٓٓٓیٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ @H_wanter [189176332] kicked for #spam
+ 
+[ Thu Apr 28 12:20:33 2016 ]=>  ارشیاارشیا [208813511] kicked for #spam
+ 
+[ Thu Apr 28 12:25:22 2016 ]=>  D [218889041] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:27:26 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Thu Apr 28 12:33:17 2016 ]=>  ☆☆♡♡_ahad_♡♡☆☆ [174467399] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:33:30 2016 ]=>  خودم_تنها_فقط [155252439] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:42:23 2016 ]=>  😂😜 [215724499] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:44:04 2016 ]=>  maryami:) @no_love47 [214044144] kicked for #spam
+ 
+[ Thu Apr 28 12:44:21 2016 ]=>  نوید [195909638] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:45:43 2016 ]=>  ❤️❤️😊❤️❤️ [210592188] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:46:13 2016 ]=>  کهربا_:) [156727794] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:51:34 2016 ]=>  Arash [94343208] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 12:51:46 2016 ]=>  ☫ [144422006] Used /superhelp
+ 
+[ Thu Apr 28 12:54:21 2016 ]=>  سامانM...؟ [147179138] kicked for #spam
+ 
+[ Thu Apr 28 12:56:52 2016 ]=>  Miss☆enayati [210682534] kicked for #spam
+ 
+[ Thu Apr 28 12:59:38 2016 ]=>  مهدى_.ريپورتم_. [165828412] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 13:02:37 2016 ]=>  ☫ [144422006] Used /superhelp
+ 
+[ Thu Apr 28 13:13:55 2016 ]=>  ♏šäľmå"17"ãżåŕï♏ [186195099] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 13:19:39 2016 ]=>  💖fardin💖 [82668355] kicked for #spam
+ 
+[ Thu Apr 28 13:21:54 2016 ]=>  ﾑｲﾉらӇｱﾑ尺乇🍭 [213870568] kicked for #spam
+ 
+[ Thu Apr 28 13:22:11 2016 ]=>  ﾑｲﾉらӇｱﾑ尺乇🍭 [213870568] kicked for #spam
+ 
+[ Thu Apr 28 13:26:34 2016 ]=>  عبدالحسين @mohammadreza13952017 [219646960] kicked for #spam
+ 
+[ Thu Apr 28 13:27:16 2016 ]=>  ──────────────────── ─████████████████─── ─██────────────██─── ─██──████████──██─── ─██──██────██──██─── ─██──████████──██─── ─██────────────██─── ─██──██████──████─── ─██──██──██──██───── ─██──██──██──██████─ ─██──██──██──────██─ ─██████──██████████─ ─── [216910864] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 13:27:28 2016 ]=>  ────────────────────_─████████████████───_─██────────────██───_─██──████████──██───_─██──██────██──██───_─██──████████──██───_─██────────────██───_─██──██████──████───_─██──██──██──██─────_─██──██──██──██████─_─██──██──██──────██─_─██████──██████████─_─── [216910864] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 13:30:01 2016 ]=>  Я£乙ﾑRოℓσvε.ყ¤ʊოℳ [209985406] kicked for #spam
+ 
+[ Thu Apr 28 13:37:54 2016 ]=>  ِّْڕِّْڣِّْـِِِّّّْْْـِّْـِّْیِّْـِّْـِّْـِّّْـِّْق ِّْخِّْـِّْـّـِّْـِّْاِّْڪ ِّْپِّْـِّْـِّْـّـِّْـِّْاِّْٺِّْـِِّّّْْْـِّْم [202000915] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 13:38:26 2016 ]=>  ِّْڕِّْڣِّْـِِِّّّْْْـِّْـِّْیِّْـِّْـِّْـِّّْـِّْقِّْخِّْـِّْـّـِّْـِّْاِّْڪِّْپِّْـِّْـِّْـّـِّْـِّْاِّْٺِّْـِِّّّْْْـِّْم @Ali_takboy [202000915] kicked for #spam
+ 
+[ Thu Apr 28 13:38:31 2016 ]=>  😘گلدختر😘 [213640734] kicked for #spam
+ 
+[ Thu Apr 28 13:41:40 2016 ]=>  Sara#1 [206671028] kicked for #spam
+ 
+[ Thu Apr 28 13:45:17 2016 ]=>  (O+) [211672665] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 13:45:19 2016 ]=>  (O+) @Lalik888 [211672665] kicked for #spam
+ 
+[ Thu Apr 28 13:48:20 2016 ]=>  M.Fallah @MFstuw [123632170] kicked for #spam
+ 
+[ Thu Apr 28 13:54:19 2016 ]=>  mohsen [199778372] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 13:55:13 2016 ]=>  ❤️❤️YASAMAN❤️❤️ [158506760] kicked for #spam
+ 
+[ Thu Apr 28 13:57:54 2016 ]=>  ..._... [154008229] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:04:30 2016 ]=>  Shoan [197901204] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:05:48 2016 ]=>  M,r [136019313] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:17:18 2016 ]=>  ▔﹍اُســــö̲̈s̲̈̈ẗ̲̈ö̲̈v̲̈̈ä̲̈r̲̈̈ـــتـُــوار﹍▔ (R̲E̲P̲o̲R̲T̲) ✞۞واســــــہ مـــــا ڪـــہ میـــگـذره۞✞    ✘☜ولـــے بـہ شمـــا خـــوش بگـــذره☞✘ [176367995] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 14:17:30 2016 ]=>  ▔﹍اُســــö̲̈s̲̈̈ẗ̲̈ö̲̈v̲̈̈ä̲̈r̲̈̈ـــتـُــوار﹍▔_(R̲E̲P̲o̲R̲T̲)_✞۞واســــــہ_مـــــا_ڪـــہ_میـــگـذره۞✞____✘☜ولـــے_بـہ_شمـــا_خـــوش_بگـــذره☞✘ [176367995] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:21:52 2016 ]=>  Maryam [125517735] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:22:57 2016 ]=>  شقایق [194313597] kicked for #spam
+ 
+[ Thu Apr 28 14:26:33 2016 ]=>  Matin @Username_matin [180103288] kicked for #spam
+ 
+[ Thu Apr 28 14:29:30 2016 ]=>  VÅИÐÅLLѺρS ( ͡° ͜ʖ﻿ ͡°) 👿฿ℓÅcKۇَزٌيٍـــ؁ـــڕℳα﹩K 👿 [175337401] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 14:29:48 2016 ]=>  VÅИÐÅLLѺρS ( ͡° ͜ʖ﻿ ͡°) 👿฿ℓÅcKۇَزٌيٍـــ؁ـــڕℳα﹩K 👿 [175337401] requested SuperGroup ID
+ 
+[ Thu Apr 28 14:30:50 2016 ]=>  Hossein @Hossein9016 [137541444] kicked for #spam
+ 
+[ Thu Apr 28 14:33:21 2016 ]=>  ☫ [144422006] renamed SuperGroup to: 🔱ᶫᵒᵛᵉᵧₒᵤ๑۩chat۩๑ᶫᵒᵛᵉᵧₒᵤ🔱
+ 
+[ Thu Apr 28 14:41:22 2016 ]=>                        [183760465] requested SuperGroup ID
+ 
+[ Thu Apr 28 14:47:42 2016 ]=>  Zohreh💜 [133177826] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:51:36 2016 ]=>  Sarbaz_Khoda [181598326] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:54:12 2016 ]=>  ٍٍٍٍ﷽ًًًًٍٍ‌‌•●❥ßɛĦℜÅÐ❥‌‌●•﷽‌‌Vٌُّaًٌٍٍٍٍٍٍُُmًٌٍٍٍَpiًًًًٌٌٍُrُeٍٍُ❥●•۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٚؔ پــــای رفتــه  را میتــوان  برگــرداند  امـــــــــــــــــــــــــــــــــا   دل رفــته  راهـــــرگـز ➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹ [210889553] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Apr 28 14:54:24 2016 ]=>  ٍٍٍٍ﷽ًًًًٍٍ‌‌•●❥ßɛĦℜÅÐ❥‌‌●•﷽‌‌Vٌُّaًٌٍٍٍٍٍٍُُmًٌٍٍٍَpiًًًًٌٌٍُrُeٍٍُ❥●•۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٚؔ_پــــای_رفتــه__را_میتــوان__برگــرداند__امـــــــــــــــــــــــــــــــــا___دل_رفــته__راهـــــرگـز_➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹ [210889553] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 14:54:26 2016 ]=>  ٍٍٍٍ﷽ًًًًٍٍ‌‌•●❥ßɛĦℜÅÐ❥‌‌●•﷽‌‌Vٌُّaًٌٍٍٍٍٍٍُُmًٌٍٍٍَpiًًًًٌٌٍُrُeٍٍُ❥●•۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٜ۪ٚؔپــــایرفتــهرامیتــوانبرگــرداندامـــــــــــــــــــــــــــــــــادلرفــتهراهـــــرگـز➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹➹ @Behrad_binam_Vampire33 [210889553] kicked for #spam
+ 
+[ Thu Apr 28 15:00:28 2016 ]=>  Ooo_Ooo [172453911] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 15:11:33 2016 ]=>  ندا_بیایpvریپورتت_می_کنم!! [145671150] kicked (fosh was locked) 
+ 
+[ Thu Apr 28 15:17:58 2016 ]=>  ♥هستم…ولیتنهام♥ [161640311] kicked for #spam
+ 
+[ Fri Apr 29 17:41:35 2016 ]=>  ☫ [144422006] locked link posting 
+ 
+[ Fri Apr 29 17:42:04 2016 ]=>  ☫ [144422006] set SuperGroup to: mute Photo
+ 
+[ Fri Apr 29 17:42:30 2016 ]=>  ☫ [144422006] set SuperGroup to: mute Video
+ 
+[ Fri Apr 29 17:42:49 2016 ]=>  ☫ [144422006] locked Tgservice Actions
+ 
+[ Fri Apr 29 17:44:29 2016 ]=>  Fffffff_Mmmm [120555763] kicked (fosh was locked) 
+ 
+[ Fri Apr 29 17:48:27 2016 ]=>                        [183760465] unlocked fosh posting
+ 
+[ Fri Apr 29 17:48:28 2016 ]=>  ☫ [144422006] unlocked fosh posting
+ 
+[ Fri Apr 29 18:02:55 2016 ]=>                        [183760465] requested SuperGroup info
+ 
+[ Sat Apr 30 03:52:54 2016 ]=>  ↶⇲ًٍأًٍعًٍ ʘ͜͡ʘ ًٍْ ًٍИْ ًٍْٕص‍ًٍـ ًٍ‍؁‍اًٍبًٍْْiًٍ↯ًٍ ًٍ↺ًٍ ًٍ س‍ـ ًٍ‍ًٍْ؁‍گًٍےًٍ⇱↷ْ ْ ٍ ─━═╬हरिूु्ौ รๆทก हौु्ुूह्व╬═━─ ًًًًٍ [119938620] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 04:50:43 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 04:52:22 2016 ]=>  ☫ [144422006] promoted @MegaTesla
+ 
+[ Sat Apr 30 04:52:22 2016 ]=>  ☫ [144422006] promoted @PR0B0T
+ 
+[ Sat Apr 30 05:04:07 2016 ]=>  ☫ [144422006] locked link posting 
+ 
+[ Sat Apr 30 05:04:39 2016 ]=>  ☫ [144422006] set SuperGroup to: mute Video
+ 
+[ Sat Apr 30 05:05:18 2016 ]=>  ☫ [144422006] unlocked fosh posting
+ 
+[ Sat Apr 30 06:53:20 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 07:06:31 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 08:25:05 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 08:26:30 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] requested SuperGroup ID
+ 
+[ Sat Apr 30 08:26:58 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 10:28:48 2016 ]=>  عَلیـــْـــــرضآ مُــــ ــحــَمّـــ ــدیـــ [107019702] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 10:29:00 2016 ]=>  💕امـــــــیـــــــــــــ امیرــــــــــر💕 [111377057] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 10:31:24 2016 ]=>  ✘✔Ҭคҭคใเҭұ✔✘∵ →Ŋobąţęmąŋę™∅(ریپورتم) [103134454] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 12:56:39 2016 ]=>  ĦΛ♏ΞÐ ™                                                                                         . .                                                                                  ™ [122979635] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 12:59:59 2016 ]=>  ne´&® [161161999] kicked for #spam
+ 
+[ Sat Apr 30 13:00:29 2016 ]=>  ?!mamadbig©® @mamadbiig [164206266] kicked for #spam
+ 
+[ Sat Apr 30 13:23:56 2016 ]=>  ☫ [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 13:24:45 2016 ]=>  👠👜👗РаЯІ💄👒👔 @Wantonz_shxx [99782087] kicked for #spam
+ 
+[ Sat Apr 30 13:24:46 2016 ]=>  👠👜👗РаЯІ💄👒👔 @Wantonz_shxx [99782087] kicked for #spam
+ 
+[ Sat Apr 30 13:25:03 2016 ]=>  محـٰ؁ـمــداســٰ؁ــتار [157490921] kicked for #spam
+ 
+[ Sat Apr 30 13:25:03 2016 ]=>  محـٰ؁ـمــداســٰ؁ــتار [157490921] kicked for #spam
+ 
+[ Sat Apr 30 13:28:37 2016 ]=>  ⭐️ [121688070] kicked for #spam
+ 
+[ Sat Apr 30 13:28:37 2016 ]=>  ⭐️ [121688070] kicked for #spam
+ 
+[ Sat Apr 30 13:37:51 2016 ]=>  Omid [154889874] kicked for #spam
+ 
+[ Sat Apr 30 13:58:06 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] locked link posting 
+ 
+[ Sat Apr 30 14:00:09 2016 ]=>  ❤مهسا❤ [211988333] kicked for #spam
+ 
+[ Sat Apr 30 14:01:39 2016 ]=>  ݫًًًًًًٍٍٍٍهـًًًًٍٍٍٍٍِِّـًًًٍٍــًًٍٍـًٍٍــًًٍٍٍََــًًًٍٍـًًًٍٍٍٍـًٍــًًٍـًًًٍٍٍَـًًٍـًًٍٍـًٍٍــًًٍٍږًًًًًًٍٍٍٍٍآًًًًٍٍٍٍٍٍهًًًًًًٍٍٍٍٍٍـــًًٍٍـًًًًٍٍٍٍɦًًٍٍـًًٍٍہًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍ ًًٍٍڔًًًًًًًٍٍٍٍٍٍۅًًًًًًٍٍٍٍٍآݪًًًًًٍٍٍٍٍٍہًًًًًًًٍٍٍٍٍٍٍَََ [207475498] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 14:10:15 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] locked Tgservice Actions
+ 
+[ Sat Apr 30 14:14:05 2016 ]=>  💖🔥Keےvn🔥💖 [192996054] kicked for #spam
+ 
+[ Sat Apr 30 14:16:49 2016 ]=>  ستاره @setare1345 [106591962] kicked for #spam
+ 
+[ Sat Apr 30 14:27:38 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] promoted mod: @@Khiyanat123[183760465] by reply
+ 
+[ Sat Apr 30 14:42:47 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 14:43:35 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] obtained id for: [207475498]
+ 
+[ Sat Apr 30 14:43:54 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] added [207475498] to the muted users list
+ 
+[ Sat Apr 30 14:48:54 2016 ]=>  هاHaniyehنیه @Haniyeh_21 [129131534] kicked for #spam
+ 
+[ Sat Apr 30 14:52:41 2016 ]=>  امیر [180563745] kicked for #spam
+ 
+[ Sat Apr 30 15:21:57 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] locked link posting 
+ 
+[ Sat Apr 30 15:22:06 2016 ]=>  ☫( - ･) ︻デ═一 ▸ [144422006] locked link posting 
+ 
+[ Sat Apr 30 15:29:34 2016 ]=>  ♪👍😘QЦΣΣП😘👍♪ [178634715] kicked for #spam
+ 
+[ Sat Apr 30 15:50:38 2016 ]=>                        [183760465] promoted mod: @@omid_paydar[104657260] by reply
+ 
+[ Sat Apr 30 15:50:59 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] promoted @MegaTesla
+ 
+[ Sat Apr 30 15:51:29 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] promoted @PR0B0T
+ 
+[ Sat Apr 30 15:52:21 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] promoted @Paydar_roboo
+ 
+[ Sat Apr 30 15:54:57 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set flood to [7]
+ 
+[ Sat Apr 30 15:56:37 2016 ]=>  ☫(_-_･)_︻デ═一_▸__________🇺🇸 [144422006] Used /superhelp
+ 
+[ Sat Apr 30 15:57:15 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] locked Tgservice Actions
+ 
+[ Sat Apr 30 15:57:58 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: mute Audio
+ 
+[ Sat Apr 30 16:00:58 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] unlocked fosh posting
+ 
+[ Sat Apr 30 16:37:39 2016 ]=>  Mahdi [146033680] kicked for #spam
+ 
+[ Sat Apr 30 17:05:33 2016 ]=>  دخـــــــ💋💄💅ــــــمـــل بــابــام [165183836] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Apr 30 17:11:50 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Sat Apr 30 17:13:20 2016 ]=>  🌆rad @raddavood1 [136390029] kicked for #spam
+ 
+[ Sat Apr 30 17:21:44 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] promoted mod: @@Xx_s_m_xX[183136464] by reply
+ 
+[ Sat Apr 30 17:23:46 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: unmute Photo
+ 
+[ Sat Apr 30 17:33:54 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] unlocked link posting
+ 
+[ Sat Apr 30 17:34:36 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] promoted mod: @❤ฆศ๕โธ❤ [204218835] by reply
+ 
+[ Sat Apr 30 17:35:01 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] locked link posting 
+ 
+[ Sat Apr 30 17:47:23 2016 ]=>  ......... @javad_79_mashhad [169810472] kicked for #spam
+ 
+[ Sat Apr 30 17:53:17 2016 ]=>  ﾑЯﾑ3ｲσσ @Prancess97 [153897331] kicked for #spam
+ 
+[ Sat Apr 30 17:53:47 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: mute Photo
+ 
+[ Sat Apr 30 18:10:54 2016 ]=>  علرضا [206229028] kicked for #spam
+ 
+[ Sat Apr 30 18:19:46 2016 ]=>  پیpѦ¥Åℳام❥ @Payam9157 [67070614] kicked for #spam
+ 
+[ Sun May  1 13:16:34 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Sun May  1 13:50:06 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Sun May  1 14:03:45 2016 ]=>  €®£/-\/\/.rmz @erysasa [198012102] kicked for #spam
+ 
+[ Sun May  1 14:08:42 2016 ]=>  Moh mm d 👉 B🎤                           ✌✌✌✌✌✌✌✌✌👋👋👋👋👋👋✌✌✌✌👋👋✌✌👋👋👋✌👉✌👉👋👋👏👏👏👋✌✌✌✊✊👌✊✌✌✌✊✌👉✋✋✋✌✌✊✌✌✌👋✋✌👉👉✋✌✌✌✌✌✌✌✌✌✌✋👉👉👉✌👉👉👉👉👉👉👉👉👋👋👋👋✋👊👊✋✋✌✊✊👋👏👏👐👐👐👏👋👋👉✋✋👏👏👏👏👋👋👉👋👏👏☝☝☝👆👐👐👐👐☝☝☝☝👋✌👈💝💝💝💘💘💞💟😔😔😖😌😭😭😪😗😗🙍😸😼😼😺😺👫👫👪💑💏👥👮👫👫👪💑💑👷👫👷👷👪👪👪👪👫👫👨🐑🐏🐏🐰🐰🐏🐑♓♓♓🚰🚰🚰🚯♒♒♑🚮♒♓♌🔚🔛🔛♊♊🔛🔏📧📧🔎🔄🔎🔎 [218448508] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:11:08 2016 ]=>  🎀فاطِـــــــــ ｷﾑｲ乇ᄊ乇ん مـــــِـــہ🎀 [204406974] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:13:20 2016 ]=>  Amir#6 [198692015] kicked for #spam
+ 
+[ Sun May  1 14:13:41 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: mute Gifs
+ 
+[ Sun May  1 14:13:53 2016 ]=>  ‌☆N☆‌ ♡نًْــفًـْـــــًْــــًـْسْ‌♡ [192332723] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:15:02 2016 ]=>  M..u..s..i..c✏ @Sookoot021 [143038949] kicked for #spam
+ 
+[ Sun May  1 14:21:09 2016 ]=>  امیرعلیریپورتم😔😔😔 @Xxxx788 [149049678] kicked for #spam
+ 
+[ Sun May  1 14:26:58 2016 ]=>  (دیلگِتَهتالشْ) [119565300] kicked for #spam
+ 
+[ Sun May  1 14:29:03 2016 ]=>  پرهاممن [133717557] kicked for #spam
+ 
+[ Sun May  1 14:53:22 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:53:42 2016 ]=>  ❧✬عـــــلـ👑ـ✿ــــــــѦłɪـــــ ✿ــ👑ـــے✬❧ [72609318] requested SuperGroup ID
+ 
+[ Sun May  1 19:52:28 2016 ]=>  ًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ みًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ σًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ 3ًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ £ًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ łًًًًًًًًٍْْْْْْْْْْٖٖٖٖٖٖٖٖٖٖٖٖٖ ŋ [72765927] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 19:54:18 2016 ]=>  یسناااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااا [147256530] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 20:59:01 2016 ]=>  ❌اًٍمًٍـًٍـــًٍــًٍσًٍℳɨًٍのیـًٍـًٍـًٍـًٍد❌ [109933487] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 21:14:25 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:27 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:14:27 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:14:28 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:14:28 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:14:32 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:14:32 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:14:32 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:14:32 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:33 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:37 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:37 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:14:37 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:37 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:37 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:41 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:41 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:14:42 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:14:42 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:15 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:15 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:15 2016 ]=>  ∅ [94180856] requested group rules
+ 
+[ Sun May  1 21:15:15 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:16 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:19 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:20 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:20 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:20 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:20 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:20 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:15:27 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:27 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:28 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:28 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:28 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:34 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:34 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:35 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Sun May  1 21:15:35 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:15:35 2016 ]=>  ∅ [94180856] used /owner
+ 
+[ Sun May  1 21:19:13 2016 ]=>  ∅ [94180856] requested group rules
+ 
+[ Sun May  1 21:19:14 2016 ]=>  ∅ [94180856] requested group modlist
+ 
+[ Sun May  1 21:19:14 2016 ]=>  ∅ [94180856] requested SuperGroup ID
+ 
+[ Mon May  2 05:39:01 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Mon May  2 10:05:10 2016 ]=>  MaMaLi/:D [172767635] requested SuperGroup ID
+ 
+[ Mon May  2 10:05:57 2016 ]=>  MaMaLi/:D [172767635] used /owner
+ 
+[ Mon May  2 10:12:37 2016 ]=>  سامان 26- کوسلیس و پالیس حضوری هستم خانومها که واقعا" منو میخوان پیام بزارن [194659800] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 11:47:23 2016 ]=>  ♔ خٌِِِِِِ٘ؓـِؒؒـِِِِِِِِؑؓـِِِِِؑؓۆؑؓدِِِِِِِِِِِِِِِِِّؐؑگؒؐـِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِؐHٌِِِِِِِِِِِِِؐΰٍِِِِِِِِِِِِِِِِِِِِؑήِِِِِِِِِِِِِِِِِؐtِِؑёِِِِِِِِِِِِِِِِِِؓяؑؒؒـِِِِِِِِِِِِِؑـؓؑر۰ِِِِِِِِِِِِِِِِِِِِِِِِؒؓاؐؑ [99084388] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 12:23:28 2016 ]=>                        [183760465] requested SuperGroup ID
+ 
+[ Mon May  2 13:22:33 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Mon May  2 13:49:10 2016 ]=>  شاهــــรђคђīกـینـــــــــ @Shahin6731 [96951646] kicked for #spam
+ 
+[ Mon May  2 13:51:47 2016 ]=>  👑❎عـٍٰٰٰٓٓٓـٰٓـٍَْٰٓٓـٍـٍَٰٓـٍَٰٰٰٓٓٓـٰٓٓـباسـٍـٍٰٓـٍٰٰٰٓٓٓـٰٓـٍٓـٍْٰٓٓـٍـٍَٰٓـٍَٰٰٰٓٓٓ❎👑 [157491422] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 14:01:48 2016 ]=>  A @Joker_95 [205951603] kicked for #spam
+ 
+[ Mon May  2 14:17:11 2016 ]=>  علیبابا [169059295] kicked for #spam
+ 
+[ Mon May  2 15:03:04 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Mon May  2 15:13:28 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:28 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:29 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:30 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:30 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:31 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:32 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:32 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:33 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:33 2016 ]=>  mohammadابلیسspamشدم @khoshtip16m [78055532] kicked for #spam
+ 
+[ Mon May  2 15:13:34 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:13:34 2016 ]=>  mohammadابلیسspamشدم [78055532] banned user is talking !
+ 
+[ Mon May  2 15:28:30 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: unmute Photo
+ 
+[ Mon May  2 15:33:52 2016 ]=>  ╬الهامईह═─ [151856739] kicked for #spam
+ 
+[ Mon May  2 16:02:24 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] obtained id for: [108040678]
+ 
+[ Mon May  2 16:02:55 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] added [108040678] to the muted users list
+ 
+[ Mon May  2 16:06:48 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] set SuperGroup to: mute Photo
+ 
+[ Mon May  2 16:50:40 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] obtained id for: [199678425]
+ 
+[ Mon May  2 16:51:13 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] added [199678425] to the muted users list
+ 
+[ Mon May  2 17:24:16 2016 ]=>  Mr[radical] ❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌❎❌ [164046934] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May  2 17:29:39 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Tue May  3 10:14:45 2016 ]=>  Nุุุุััััััััััััััััุุุุุุุุุุุุ้ ุุุุุุุุุุุ้้้้้้้้้้้้้ aุุุุุุุุุุุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้ี้้ีีี้้้ ุุุุุุุุุุุุุุุ้้้้้้้้้้้ีุุุุุุุุ้้้้s t ุุุุุุุุ้้้้้้้ ุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้้้้้้้ aุุุุุุุุุุุ้้้้้้้้้้้้้้้้ ุุุุุุุุุ้้้้้้้้้้้้ ุุุุุุุ้้้้้้้้้้ rุุุุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้้ีีีี ุุุุุุุุุุุุุ้้้้้้้้้้้้้้ ุุุุุุุุุุุุุุุุุุ้้้้้้้้้้้ a n ุุุุุุุุุุุุุุุุุุุ้้้้้้้้้้ [206515928] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 10:54:39 2016 ]=>  Nุุุุััััััััััััััััุุุุุุุุุุุุ้ ุุุุุุุุุุุ้้้้้้้้้้้้้ aุุุุุุุุุุุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้ี้้ีีี้้้ ุุุุุุุุุุุุุุุ้้้้้้้้้้้ีุุุุุุุุ้้้้s t ุุุุุุุุ้้้้้้้ ุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้้้้้้้ aุุุุุุุุุุุ้้้้้้้้้้้้้้้้ ุุุุุุุุุ้้้้้้้้้้้้ ุุุุุุุ้้้้้้้้้้ rุุุุุุุุุุุุุุุุุ้้้้้้้้้้้้้้้้้ีีีี ุุุุุุุุุุุุุ้้้้้้้้้้้้้้ ุุุุุุุุุุุุุุุุุุ้้้้้้้้้้้ a n ุุุุุุุุุุุุุุุุุุุ้้้้้้้้้้ [206515928] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 11:32:24 2016 ]=>  ♣R♣ @Roya07777 [149416328] kicked for #spam
+ 
+[ Tue May  3 11:51:31 2016 ]=>  🗽💣ًٍٍٍٍََََِِِِّɯًًًٌٍٍََُِoɥًًٍٍٍٍٍِɐًًًٍٍٍٍَмًٍٍََِِّαًٍٍََِِِّÐ. o̲zٌٍٍٍٍَََِِ̲👽💥🔫 [166637698] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 11:51:53 2016 ]=>  🗽💣ًٍٍٍٍََََِِِِّɯًًًٌٍٍََُِoɥًًٍٍٍٍٍِɐًًًٍٍٍٍَмًٍٍََِِّαًٍٍََِِِّÐ.o̲zٌٍٍٍٍَََِِ̲👽💥🔫 @MOHAMAD_oz [166637698] kicked for #spam
+ 
+[ Tue May  3 12:28:30 2016 ]=>  حَم‍‌‍‌‌‌‌‌‌‌‍‌‌ٍ‌‌‍‍‌‍‌‌‌‍‌‌‌‌‍‌‍‍‌‌‌‌‍‍‌‌‌‌Haِmid‍یًد‌‌‌‌‍ِ [161855842] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:12:10 2016 ]=>  ♥10روزتاقهرمانی♥ @Hesam_1996 [161732402] kicked for #spam
+ 
+[ Tue May  3 13:23:53 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Tue May  3 13:41:40 2016 ]=>  🅰🅱🔵✔️➰〰🅰〽️🔻🔺⛓🔻🔺✔️➰〰〰〰➰ [123759394] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:41:41 2016 ]=>  ✘ 👑🔥🔰Mmæðm★Bøŵ★🔰🔥👑 ✘ ......❤️❤️              ❤️❤️    ❤❤️❤️❤️    ❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️   ❤️❤️❤️❤️❤️❤️❤️❤️❤️     ❤️❤️❤️❤️❤️❤️❤️❤️       ❤️❤️❤️❤️❤️❤️❤️           ❤️❤️❤️❤️❤️             ❤️❤️❤️❤️               ❤️❤️❤️                 ❤️❤️                   ❤️ . [205852814] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:45:04 2016 ]=>  ♔ خٌِِِِِِ٘ؓـِؒؒـِِِِِِِِؑؓـِِِِِؑؓۆؑؓدِِِِِِِِِِِِِِِِِّؐؑگؒؐـِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِؐHٌِِِِِِِِِِِِِؐΰٍِِِِِِِِِِِِِِِِِِِِؑήِِِِِِِِِِِِِِِِِؐtِِؑёِِِِِِِِِِِِِِِِِِؓяؑؒؒـِِِِِِِِِِِِِؑـؓؑر۰ِِِِِِِِِِِِِِِِِِِِِِِِؒؓاؐؑ [166843785] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:46:48 2016 ]=>  ِعًًًًِِِِِِِِڵىًًٍََََِِِِِِِ مگٲًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍَ [105598893] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:47:13 2016 ]=>  👅✞ا م‍ ‍ی‍ ‍ر ح‍ ‍س‍ ‍ی‍ ‍ن✞‍ 👅 [130086534] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:48:32 2016 ]=>  Nafas [202684236] kicked for #spam
+ 
+[ Tue May  3 13:50:49 2016 ]=>  💯 ⚡عًًًًًًًًًًًًًًًًًًًًًًًًِِِِِِِِِِِِِِِِِِِِِِِِِلًًًًًًًًًًًًِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِی مًًًًُِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِّگًًًًًًًًًًًًًًًًًِِِِِِِِِِِِِِِِِِِِِِِِⓜⓔⓖⓐاًًًًًًِِِِِِِِِِِِِ⚡💯ً [150115406] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:52:09 2016 ]=>  ѕ͕͗̅н͕͗̅α͕͗̅н͕͗̅σ͕͗̅ω͕͗̅ @first_rate [219756577] kicked for #spam
+ 
+[ Tue May  3 13:55:08 2016 ]=>  Mehdi️ [214472186] kicked for #spam
+ 
+[ Tue May  3 13:57:24 2016 ]=>  miladnaderi @miladnaderi274YAHOO [170329517] kicked for #spam
+ 
+[ Tue May  3 13:58:05 2016 ]=>  ًًهًٍـاًٍدًٍیــًٍــ دًیــًٍگـًنـٍم بـًسـٍیًـکٍ ──────────────── ─██████──██████─ ─██──██──██──██─ ─██──██──██──██─ ─██──██──██──██─ ─██──██████──██─ ─██──────────██─ ─██──██████──██─ ─██──██──██──██─ ─██──██──██──██─ ─██──██──██──██─ ─██████──██████─ ────────────────  ──────────────── ─██████████████─ [84002908] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 13:58:54 2016 ]=>  ✘👑🔥🔰Mmæðm★Bøŵ★🔰🔥👑✘......❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️. @My_for_admin1_ViruSsSsSsSsSsSsSs [205852814] kicked for #spam
+ 
+[ Tue May  3 13:59:37 2016 ]=>  اميرمحمد @aliamiri0939 [200502075] kicked for #spam
+ 
+[ Tue May  3 14:07:09 2016 ]=>  |~|£|~| [144501718] kicked for #spam
+ 
+[ Tue May  3 14:09:59 2016 ]=>  .#3 @Uzirani [202018320] kicked for #spam
+ 
+[ Tue May  3 14:18:37 2016 ]=>  ❤♥☆امـ؁ـیڹ★♥❤ @AMIN0098443 [209320692] kicked for #spam
+ 
+[ Tue May  3 14:23:17 2016 ]=>  imاٰیِِِْْْـِِِْْْـِِْْْمِِِٰٰٰٰاِِِنِِِِـِِِٰٰٰٰٰan [102637175] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 14:24:22 2016 ]=>  حــآجــــــــــــے ❂✘مـَجـــــــــآزے✘❂ [184707762] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 14:24:43 2016 ]=>  .#5 @ariuooooooooo [192761656] kicked for #spam
+ 
+[ Tue May  3 14:24:54 2016 ]=>  حــآجــــــــــــے❂✘مـَجـــــــــآزے✘❂ @haji_majazi [184707762] kicked for #spam
+ 
+[ Tue May  3 14:25:42 2016 ]=>  EAGLE [106808374] is banned and kicked ! 
+ 
+[ Tue May  3 16:49:01 2016 ]=>  ًًًًٍٍٍٍ۞مًًًٌٌٍٍٍٍّّℳًًًًًًًًٍٍٍٍٍٍٍٍٍْْ¤ًًًًًٍٍٍٍٍٍْْkًًًًًًًًًٍٍٍٍٍٍٍٍٍٍْْみًًًًًًٍٍٍٍٍٍٍٍْْْخًٍٍٍٍٍٍٍٍٍ ًًًٍٍٍٍرًًٍٍََََدًًٌٍٍٍّےًًًٍٍٍٍٍٍّّْْ۞ًًًًًٌٍٍٍٍٍٍ [160324502] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 16:59:29 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] requested SuperGroup ID
+ 
+[ Tue May  3 16:59:51 2016 ]=>  تکہ پر(دلــــــــــم تـــــنگہ توتــنگ تربپوش [200761970] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 17:53:18 2016 ]=>  𝔪𝔬𝔥𝔞𝔪𝔪𝔞𝔡 𝔯𝔞𝔣𝔦mohammad rafi 𝔡𝔞𝔳𝔞𝔧𝔦 [198864732] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 17:57:58 2016 ]=>   şºļţªņ ┏╗ ┏╗ ║┃ ║┃╔━╦╦┳═╗ ║┃ ┃╚┫║┃┃┃╩┫ ┗╝ ╚━╩═┻━╩━╝  ║╚┛┣═╦┳╗ ┗╗┏╣┃┃║┃   ┗╝┗═┻═╝ [194695245] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 17:58:06 2016 ]=>  şºļţªņ┏╗┏╗║┃║┃╔━╦╦┳═╗║┃┃╚┫║┃┃┃╩┫┗╝╚━╩═┻━╩━╝║╚┛┣═╦┳╗┗╗┏╣┃┃║┃┗╝┗═┻═╝ @soltan_pouya [194695245] kicked for #spam
+ 
+[ Tue May  3 18:00:04 2016 ]=>  فرار @lvlehdi93 [60196500] kicked for #spam
+ 
+[ Tue May  3 19:03:00 2016 ]=>  Ali#6 [207855646] kicked for #spam
+ 
+[ Tue May  3 19:25:29 2016 ]=>  اًًٍٍمًًًًًًًًًًًًًًًًًًٍٍیًًًًًًًًًًًًًًًًًًًًًٍٍــঊٌ۝ঈــر⇜ًًًًًًًًًًًًًًًًًًًًٍٍٍشًًًًًًًًًًًًًًٍٍٍـــঊٌ۝ঈــاًًًًًًًًًًًًًًًًًٍٍھًًًًًًًًًًًًًًًًًًًًًٍٍٍ [153262934] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May  3 19:38:11 2016 ]=>  😘قلبم مثل قبرم جای یه نفر داره بقیه هری😘 [155572238] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May  4 10:37:08 2016 ]=>  به سلامتی اونایی که ارزوبودن ولی خاطره شدن [212140670] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May  4 12:53:39 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:53:43 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:53:49 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:53:54 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:53:55 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:07 2016 ]=>  یک قدم تا خدا .ریپورتم15تااستیکر [102823735] requested group rules
+ 
+[ Wed May  4 12:58:21 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:30 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:33 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:39 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:42 2016 ]=>  Elena [166755971] requested group rules
+ 
+[ Wed May  4 12:58:47 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:58:53 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:59:04 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 12:59:07 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:05:28 2016 ]=>  Miss. Saly [215092578] requested group rules
+ 
+[ Wed May  4 13:05:49 2016 ]=>  Ali p [108840730] requested group rules
+ 
+[ Wed May  4 13:06:50 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:12:58 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:12:59 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:13:04 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:13:26 2016 ]=>  Sajad [162024648] requested group rules
+ 
+[ Wed May  4 13:13:41 2016 ]=>  سانیا [155401401] requested group rules
+ 
+[ Wed May  4 13:16:02 2016 ]=>  سانیا [155401401] kicked for #spam
+ 
+[ Wed May  4 14:28:38 2016 ]=>  ⚡️👽یًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍہ دًٍٍُخًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًٍٍَـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍـًًٍٍے👽⚡️ [119733961] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May  4 14:52:59 2016 ]=>  ......./ /  \          | |   |          | |   |          | |   |          | |   |          | |   |          | |   |        | |   |      /   | |  |   \           ww           MM          MM         (&<>&)          ~~~~ . . . . . . . [191230853] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May  4 16:03:00 2016 ]=>  mohamad @Imsorry1 [170935173] kicked for #spam
+ 
+[ Wed May  4 16:29:44 2016 ]=>  SAMIR @SAMIR1388 [104070155] kicked for #spam
+ 
+[ Wed May  4 16:46:15 2016 ]=>  ﷽↯ڣـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْْْْْْْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْْْْْْـٍٍٍٍْْْْْـٍٍْْْْـٍٍْْْـٍٍٍٍْْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍڔݦٔٔٔٔـٍٍٍٍٍٍٍٍٍٍٔٔـٍٍٍٍٍٍٍٔٔٔٔاٍٍٍٍٍ ڹـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْْْْْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْْْْـٍٍٍٍٍْْْـٍٍٍـٍٍْْْـٍٍٍـٍٍٍٍٍْْْْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍْْْْْـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍڊة↯﷽ [66321932] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May  5 08:08:17 2016 ]=>  شرلوکهلمزودکترجانواتسون [124427200] kicked for #spam
+ 
+[ Thu May  5 08:10:59 2016 ]=>  YAS @alii_yas [105167168] kicked for #spam
+ 
+[ Thu May  5 11:01:23 2016 ]=>  ریپورتم پانزده نفر بهم استیکر بدهید لطفا [213198816] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May  5 11:54:24 2016 ]=>  ☫( - ･) ︻デ═一 ▸          🇺🇸 [144422006] locked link posting 
+ 
+[ Thu May  5 13:41:18 2016 ]=>  mehdi [146292353] kicked for #spam
+ 
+[ Thu May  5 13:48:44 2016 ]=>  👑 ِشَاَهـ๓єђг๔ค๔ـزادِہَ ِغَـ💔ـمَ 👑 ًََََََََََََََََََََََََِِِ ََِ [171253758] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May  5 14:33:18 2016 ]=>  خدایاحساس @SOLTANahsas2010 [184850454] kicked for #spam
+ 
+[ Thu May  5 14:41:03 2016 ]=>  😍ملكه^آقامون^🙈 [96224539] kicked for #spam
+ 
+[ Thu May  5 16:34:59 2016 ]=>  👄Asal💅🏻 [141882734] kicked for #spam
+ 
+[ Thu May  5 17:16:54 2016 ]=>  a.m.i.r @Amirdabesmash [64493770] kicked for #spam
+ 
+[ Thu May  5 18:47:09 2016 ]=>  🔥💝انابل🔥💝 @Hamkelasim [175702689] kicked for #spam
+ 

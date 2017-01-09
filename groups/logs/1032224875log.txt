@@ -1,0 +1,48 @@
+[ Wed Apr 27 16:26:09 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Wed Apr 27 16:26:12 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Wed Apr 27 18:43:47 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Thu Apr 28 12:41:36 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] added SuperGroup
+ 
+[ Thu Apr 28 12:41:57 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested group modlist
+ 
+[ Thu Apr 28 12:43:48 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] attempted to create a new SuperGroup link
+ 
+[ Thu Apr 28 12:43:53 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested group link [https://telegram.me/joinchat/CeNKnD2GgGvhas1dqOAcEA]
+ 
+[ Thu Apr 28 12:45:42 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] attempted to create a new SuperGroup link
+ 
+[ Thu Apr 28 12:47:04 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] set: [162311512] as owner by reply
+ 
+[ Thu Apr 28 12:47:46 2016 ]=>  💞мιѕѕ_αяιηα💕 [208774112] requested member list in a file
+ 
+[ Thu Apr 28 12:48:14 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup users list
+ 
+[ Thu Apr 28 12:49:15 2016 ]=>  💞мιѕѕαяιηα💕 [208774112] kicked user 138886475
+ 
+[ Thu Apr 28 12:49:15 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] kicked: [ user#id138886475 ]
+ 
+[ Thu Apr 28 12:49:15 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] kicked: [162311512]
+ 
+[ Thu Apr 28 12:49:22 2016 ]=>  💞мιѕѕαяιηα💕 [208774112] kicked user 156735865
+ 
+[ Thu Apr 28 12:49:22 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] kicked: [ user#id156735865 ]
+ 
+[ Thu Apr 28 12:50:09 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup settings 
+ 
+[ Thu Apr 28 12:51:12 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup info
+ 
+[ Thu Apr 28 12:51:39 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup info
+ 
+[ Thu Apr 28 12:51:50 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup info
+ 
+[ Thu Apr 28 12:52:02 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] obtained id for: [162311512]
+ 
+[ Thu Apr 28 12:52:06 2016 ]=>  💞мιѕѕ αяιηα💕 [208774112] requested SuperGroup ID
+ 
+[ Thu Apr 28 12:54:42 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Thu Apr 28 13:27:14 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 

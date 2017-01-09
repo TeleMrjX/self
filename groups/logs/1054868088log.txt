@@ -1,0 +1,8 @@
+[ Wed May  4 14:04:55 2016 ]=>  samane @Samaneh8140 [73360149] kicked for #spam
+ 
+[ Thu May  5 13:02:08 2016 ]=>                        [183760465] added SuperGroup
+ 
+[ Thu May  5 13:02:17 2016 ]=>                        [183760465] set: [165890716] as admin by reply
+ 
+[ Thu May  5 13:14:09 2016 ]=>                        [183760465] set: [73360149] as owner by reply
+ 

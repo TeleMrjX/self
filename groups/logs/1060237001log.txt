@@ -1,0 +1,42 @@
+[ Thu Apr 28 16:24:37 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Thu Apr 28 16:24:43 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Wed May  4 12:54:27 2016 ]=>  MohammadReza [87946267] kicked: @arina_love_me_e
+ 
+[ Wed May  4 13:05:18 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 13:05:42 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 13:06:08 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 13:06:59 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 13:07:01 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 13:15:34 2016 ]=>  MohammadReza [87946267] requested SuperGroup muteslist
+ 
+[ Wed May  4 14:08:41 2016 ]=>  MohammadReza [87946267] added SuperGroup
+ 
+[ Wed May  4 14:17:33 2016 ]=>  MohammadReza [87946267] renamed SuperGroup to: تست
+ 
+[ Wed May  4 14:17:33 2016 ]=>  ☇мεgα τεslα☇ [0] renamed SuperGroup to: تست
+ 
+[ Wed May  4 14:17:41 2016 ]=>  MohammadReza [87946267] started setting new SuperGroup photo
+ 
+[ Wed May  4 14:17:54 2016 ]=>  MohammadReza [87946267] set new SuperGroup photo
+ 
+[ Wed May  4 14:18:24 2016 ]=>  MohammadReza [87946267] has changed group rules to [تست]
+ 
+[ Wed May  4 14:18:27 2016 ]=>  MohammadReza [87946267] requested group rules
+ 
+[ Wed May  4 14:18:34 2016 ]=>  MohammadReza [87946267] requested SuperGroup ID
+ 
+[ Wed May  4 14:19:01 2016 ]=>  MohammadReza [87946267] attempted to create a new SuperGroup link
+ 
+[ Wed May  4 14:19:05 2016 ]=>  MohammadReza [87946267] requested group link [https://telegram.me/joinchat/CeNKnD8x7sl-BctyGfMSMQ]
+ 
+[ Wed May  4 14:21:12 2016 ]=>  MohammadReza [87946267] requested SuperGroup info
+ 
+[ Wed May  4 14:21:37 2016 ]=>  MohammadReza [87946267] requested group modlist
+ 
